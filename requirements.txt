@@ -1,0 +1,7 @@
+# Pharmaceutical Care App Dependencies
+# This is a basic console application with no external dependencies
+# Future enhancements may require:
+# - flask (for web interface)
+# - sqlite3 (for database - built-in with Python)
+# - schedule (for advanced reminders)
+# - pytest (for testing)
